@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm `waringhu`, nice to meet you.
+I'm **rokcso**, nice to meet you.
+
+- 🔭 I’m currently working on 🐶 PM
+- 🌱 I’m currently learning 🍎 iOS / 🕸️ Web / 🎨 Design
+- 💬 Ask me about 🕳️ everything
+- 📫 Contact me via `rokcsox@gmail.com`
+- ☝️ One more thing ➡️ [rokcso.com](https://rokcso.com)

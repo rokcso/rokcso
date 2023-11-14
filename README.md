@@ -6,4 +6,4 @@ I'm **rokcso**, nice to meet you.
 - 🌱 I’m currently learning 🍎 iOS / 🕸️ Web / 🎨 Design
 - 💬 Ask me about 🕳️ everything
 - 📫 Contact me via `rokcsox@gmail.com`
-- ☝️ One more thing ➡️ [rokcso.com](https://rokcso.com)
+- ☝️ One more thing ➡️ [rokcso.com](https://www.rokcso.com)
